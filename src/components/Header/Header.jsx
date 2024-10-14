@@ -3,7 +3,7 @@ import React from "react";
 const Header = () => {
   return (
     <header>
-      <div className="container flex flex-col justify-center items-center">
+      <div className="container py-4 flex flex-col justify-center items-center">
         <div className="">
           <div className="flex flex-col justify-center items-center">
             <img
