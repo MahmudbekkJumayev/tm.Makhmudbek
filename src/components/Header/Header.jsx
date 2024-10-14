@@ -45,10 +45,7 @@ const Header = () => {
             </div>
           </a>
           {/* /* git hub*/}
-          <a
-            href="https://www.linkedin.com/in/mahmudbek-toshtemirov/"
-            target="_blank"
-          >
+          <a href="https://github.com/MahmudbekkJumayev" target="_blank">
             <div className="bg-navy p-4 rounded-md flex justify-center gap-2 items-center">
               <div>
                 <svg
@@ -68,7 +65,7 @@ const Header = () => {
             </div>
           </a>
           {/* /* telegram*/}
-          <a href="" target="_blank">
+          <a href="mailto:mahmudbekkjumayev@gmail.com" target="_blank">
             <div className="bg-navy p-4 rounded-md flex justify-center gap-2 items-center">
               <div>
                 <svg
